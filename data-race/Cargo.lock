@@ -1,0 +1,4 @@
+[root]
+name = "data-race"
+version = "0.1.0"
+
